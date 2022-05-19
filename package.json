@@ -8,6 +8,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^26.2.2",
+    "jest": "^28.1.0",
     "prettier": "^2.6.2"
   },
   "scripts": {
